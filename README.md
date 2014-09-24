@@ -21,6 +21,10 @@ If I have one more day I would have really cleaned up the code and made it much 
 * Categories should show a subset of the full list with a "See All" row to expand. Category list is here: http://www.yelp.com/developers/documentation/category_list (Links to an external site.)
 * Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
 
+## Known issues
+* hardcoded the latitude and longitude (couldn't get the location finding to work on simulator)
+* deals_filter is not working correctly. If I had more time I would fool around more with it but for now just leave it
+* the two controllers are too bloated. As discussed in previous class, it is good to put a lot of logic for getting the restaurants and parsing the info into a Restaurant class. Would definitely do that in the assignment
 
 ## Installation
 The pods directory was also checked in so theoretically should just need to load FinalYelpApp.xcworkspace
@@ -29,6 +33,8 @@ The pods directory was also checked in so theoretically should just need to load
 
 * AFNetworking (for asynchronous loading of images)
 * RNActivityView (for showing the loading dialog)
+* BDBOAuth1Manager
+
 
 
 ## Animated gif walkthrough
