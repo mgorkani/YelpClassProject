@@ -124,7 +124,7 @@ class FilterController: UIViewController, UITableViewDataSource, UITableViewDele
         var sectionExpanded:Bool = isExpanded[section]!
         if (name == "Category" && !sectionExpanded) {
             if (indexPath.row == 3) {
-                cell.settingsName.text = "Select All"
+                cell.settingsName.text = "See All"
                 cell.settingsSwitch.hidden = true
             }
             else {
