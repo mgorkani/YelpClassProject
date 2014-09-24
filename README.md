@@ -7,7 +7,7 @@ This is the code for the Week 2 Project: Yelp
 ## Number of hours spent
 
 I spent about 14 hours implementing all the required features ( a lot of the time was spent getting auto layout correct. 
-If I have one more day I would have really cleaned up the code and made it much more DRY and modular
+If I have one more day I would have really cleaned up the code and made it much more DRY and modular)
 
 ## Features Implemented(required)
 
@@ -23,7 +23,7 @@ If I have one more day I would have really cleaned up the code and made it much 
 
 
 ## Installation
-The pods directory was also checked in so theoretically should just need to load RottenMovieController.xcworkspace
+The pods directory was also checked in so theoretically should just need to load FinalYelpApp.xcworkspace
 
 ## Third party libraries used
 
