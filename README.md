@@ -23,7 +23,7 @@ If I have one more day I would have really cleaned up the code and made it much 
 
 
 ## Installation
-The pods directory was also checked in so theoretically should just need to load RottenMovieController.xcworkspace
+The pods directory was also checked in so theoretically should just need to load FinalYelpApp.xcworkspace
 
 ## Third party libraries used
 
